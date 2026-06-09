@@ -1,4 +1,4 @@
-module github.com/pallat/adklitellm
+module github.com/pallat/adk/litellm
 
 go 1.26.3
 
