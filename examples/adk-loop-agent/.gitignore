@@ -1,0 +1,5 @@
+/adk-loop-agent
+*.exe
+*.test
+*.out
+.env

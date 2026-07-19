@@ -1,0 +1,5 @@
+/adk-sequential-agent
+*.exe
+*.test
+*.out
+.env

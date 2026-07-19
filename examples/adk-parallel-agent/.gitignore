@@ -1,0 +1,5 @@
+/adk-parallel-agent
+*.exe
+*.test
+*.out
+.env
