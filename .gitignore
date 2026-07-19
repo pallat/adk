@@ -23,3 +23,11 @@ go.work.sum
 .vscode/
 *.swp
 *.swo
+
+# OS
+.DS_Store
+
+# Coverage
+coverage.out
+coverage.html
+*.cover
