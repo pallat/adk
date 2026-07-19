@@ -31,3 +31,6 @@ go.work.sum
 coverage.out
 coverage.html
 *.cover
+
+# Claude Code local settings
+.claude/settings.local.json
